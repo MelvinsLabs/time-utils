@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/MelvinsLabs/time-utils.svg)](https://travis-ci.org/MelvinsLabs/time-utils)
+
 ## ReadMe First
 
 This repository holds a Utility for Time related Logics.
